@@ -1,0 +1,18 @@
+package lambda;
+
+public class B  implements InterF4,InterF3{
+
+	@Override
+	public void m2() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void m1() {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+}
